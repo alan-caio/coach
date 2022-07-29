@@ -1,4 +1,4 @@
-# CoDash - COVID-19 Dashboard <img align="right" width="300" src="https://github.com/codash-platform/codash/blob/master/static/images/logo/logo_large.png?raw=true" alt="CoDash" >
+# Dashboard
 
 **UPDATE**: The project has been dicontinued. The live website has been suspended because of the great work from ourworldindata.org. I highly suggest you check them out as the main information source going forward.
 
@@ -36,8 +36,8 @@ More info can be found [here](https://www.ecdc.europa.eu/en/publications-data/do
 
 ## Credits
 
-Theme inspired from [ArchitectUI Bootstrap 4 ReactJS Theme FREE](https://github.com/DashboardPack/architectui-react-theme-free)
+Theme inspired from [ArchitectUI Bootstrap 4 ReactJS Theme FREE]()
 
-Logo - [Alex Nae](mailto:naealexandrunicolae@gmail.com) - check out his [game](https://www.theundergroundkinggame.com/)
+Logo - [Alex Nae](mailto:naealexandrunicolae@gmail.com) - check out his [game]()
 
-Development & Testing - See [contributors list](https://github.com/codash-platform/codash/graphs/contributors).
+Development & Testing - See [contributors list]().
